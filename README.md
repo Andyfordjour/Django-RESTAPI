@@ -27,8 +27,6 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/ecommerce-api.git
-cd ecommerce-api
 Create and activate a virtual environment:
 
 bash
